@@ -14,6 +14,7 @@
 		CFC80EF32B833DFA003A887C /* swiftui_TasksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC80EF22B833DFA003A887C /* swiftui_TasksTests.swift */; };
 		CFC80EFD2B833DFA003A887C /* swiftui_TasksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC80EFC2B833DFA003A887C /* swiftui_TasksUITests.swift */; };
 		CFC80EFF2B833DFA003A887C /* swiftui_TasksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC80EFE2B833DFA003A887C /* swiftui_TasksUITestsLaunchTests.swift */; };
+		CFC80F0C2B835C1D003A887C /* TextLearnings.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC80F0B2B835C1D003A887C /* TextLearnings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		CFC80EF82B833DFA003A887C /* swiftui_TasksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftui_TasksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFC80EFC2B833DFA003A887C /* swiftui_TasksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_TasksUITests.swift; sourceTree = "<group>"; };
 		CFC80EFE2B833DFA003A887C /* swiftui_TasksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_TasksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CFC80F0B2B835C1D003A887C /* TextLearnings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextLearnings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				CFC80EE12B833DF8003A887C /* swiftui_TasksApp.swift */,
 				CFC80EE32B833DF8003A887C /* ContentView.swift */,
+				CFC80F0B2B835C1D003A887C /* TextLearnings.swift */,
 				CFC80EE52B833DF9003A887C /* Assets.xcassets */,
 				CFC80EE72B833DF9003A887C /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFC80EE42B833DF8003A887C /* ContentView.swift in Sources */,
+				CFC80F0C2B835C1D003A887C /* TextLearnings.swift in Sources */,
 				CFC80EE22B833DF8003A887C /* swiftui_TasksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
